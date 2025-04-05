@@ -1,0 +1,69 @@
+# Ignore build artifacts
+target/
+*.log
+*.tmp
+
+# Ignore Terraform files and state files
+#*.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+# Ignore secrets and sensitive files
+secrets/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+
+# Ignore node modules
+node_modules/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore database related files
+*.sql
+*.bak
+
+# Ignore .env files
+.env
+
+# Ignore grading results and temporary output
+grader_result.txt
+*.result
+*.out
+
+# Ignore Terraform local directories
+.terraform/
+
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Ignore Terraform lock file (optional depending on team policy)
+#.terraform.lock.hcl
+
+.idea
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+/.env
+venv/
+
+/movie_endpoint_test/movie_endpoint_test.iml
+/movie_endpoint_test/report.html
+/movie_endpoint_test/assets/style.css
+
+deployer-key.pem

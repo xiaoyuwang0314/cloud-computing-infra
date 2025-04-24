@@ -2,6 +2,20 @@
 
 This project implements a cloud infrastructure using Terraform on AWS. It sets up a complete environment including VPC, EC2 instances, load balancing, auto-scaling, and database components.
 
+## 🔗 Related Repositories
+
+- **Frontend** (React + Vite + D3 + JWT Auth):  
+  🎨 [movie-recommendation-app-frontend](https://github.com/xiaoyuwang0314/movie-recommendation-app-frontend)
+
+- **Live Site**:  
+  🌐 [https://frontend.justanotherapp.me](https://frontend.justanotherapp.me)
+
+- **Backend** (Spring Boot + RESTful API + Auth):  
+  ⚙️ [cloud-native-web-application](https://github.com/xiaoyuwang0314/cloud-computing-project/tree/main/cloud-native-web-application)
+
+- **Note**:  
+  ⚠️ While this project contains full-stack provisioning (CloudWatch, NLB, multi-instance setup), the current deployment is simplified (e.g., single EC2 + Nginx) to reduce AWS cost.
+
 ## Project Structure
 
 The infrastructure is defined using multiple Terraform configuration files:

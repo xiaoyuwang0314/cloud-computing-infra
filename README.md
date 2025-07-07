@@ -7,7 +7,7 @@ This project implements a cloud infrastructure using Terraform on AWS. It sets u
 - **Frontend** (React + Vite + D3 + JWT Auth):  
   🎨 [movie-recommendation-app-frontend](https://github.com/xiaoyuwang0314/movie-recommendation-app-frontend)
 
-- **Live Site**:  
+- **~Live Site~** Temporarily closed:  
   🌐 [https://frontend.justanotherapp.me](https://frontend.justanotherapp.me)
 
 - **Backend** (Spring Boot + RESTful API + Auth):  

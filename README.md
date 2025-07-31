@@ -8,7 +8,7 @@ This project implements a cloud infrastructure using Terraform on AWS. It sets u
   🎨 [movie-recommendation-app-frontend](https://github.com/xiaoyuwang0314/movie-recommendation-app-frontend)
 
 - **~Live Site~** Temporarily closed:  
-  🌐 [https://frontend.justanotherapp.me](https://frontend.justanotherapp.me)
+  🌐 ~[https://frontend.justanotherapp.me](https://frontend.justanotherapp.me)~
 
 - **Backend** (Spring Boot + RESTful API + Auth):  
   ⚙️ [cloud-native-web-application](https://github.com/xiaoyuwang0314/cloud-computing-project/tree/main/cloud-native-web-application)
